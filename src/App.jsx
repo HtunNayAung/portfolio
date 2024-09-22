@@ -42,7 +42,7 @@ function App() {
           </motion.div>
         </div>
         <LineGradient/>
-        <div className='w-5/6 mx-auto md:h-full'>
+        <div className='w-5/6 mx-auto md:h-auto'>
           <motion.div
             margin="0 0 -100px 0"
             amount="all"
